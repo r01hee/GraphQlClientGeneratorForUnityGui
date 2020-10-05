@@ -1,0 +1,19 @@
+{
+    "name": "GraphQlClientGeneratorGui",
+    "references": [
+        "GUID:4f7b924701d5a4b248807a0c4cf0cb68"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "GraphQlClientGenerator.0.7.2.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

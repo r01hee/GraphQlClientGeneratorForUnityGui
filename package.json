@@ -1,0 +1,8 @@
+{
+    "name": "dev.r01.graphql-client-generator-gui",
+    "displayName": "GraphQL Client Generator GUI",
+    "version": "1.0.0",
+    "unity": "2019.4",
+    "description": "Generate GraphQL Client C# Script on Unity GUI",
+    "dependencies": { }
+}
